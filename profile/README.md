@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" style="width:60%">
+<img src="https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/header.png" style="width:60%">
 
 
 <h3><a href="https://hust.openatom.club">hust.openatom.club</a></h3>
