@@ -12,6 +12,8 @@
 |[**🪩 HUST Mirror**][hustmirror] <br><br> 华中科技大学开源镜像站 *（公网访问即将上线）* | ![][hustmirrors-cover]|
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
 |![][mirrorcli-cover]|[**📦 Mirror CLI**][mirrorcli] <br><br> 一键换源的命令行工具：支持 Ubuntu，Debian，Deepin，PyPI，crates 等多个发行版及工具|
+|[**🌐 HCTT 翻译团队**][hctt] <br><br> HCTT (HUST openatom Club Translation Team) 是“华科开放原子开源俱乐部”的翻译团队 | ![][hctt-cover]|
+|![][linux-inside-cover]|[**📖 Linux 内核揭秘**][linux-inside] <br><br> 分享对 Linux 内核机理的一些浅见，帮助读者理解 Linux 内核机理和其他底层内容|
 
 ## 俱乐部介绍
 
@@ -31,9 +33,9 @@
 |hust-mirrors|华科大开源镜像站点前端|[hust-open-atom-club/hust-mirrors](https://github.com/hust-open-atom-club/hust-mirrors)|
 |linux-edu-rank|Linux内核高校贡献榜|[hust-open-atom-club/linux-edu-rank](https://github.com/hust-open-atom-club/linux-edu-rank)|
 |hustmirror-cli|华科大开源镜像站点 CLI 工具|[hust-open-atom-club/hustmirror-cli](https://github.com/hust-open-atom-club/hustmirror-cli)|
-|HUST-OS-BOT|Hust OS Contribution 邮件任务机器人|[hust-os-bot](https://gitee.com/hust-open-atom-club/hust-os-bot)|
-|KTestBot|内核补丁邮件测试机器人|[KTestRobot](https://gitee.com/hust-open-atom-club/KTestRobot)|
-|larkapp|内核邮件飞书通知机器人|[larkapp](https://gitee.com/hust-open-atom-club/larkapp)|
+|HUST-OS-BOT|Hust OS Contribution 邮件任务机器人|[hust-open-atom-club/hust-os-bot](https://gitee.com/hust-open-atom-club/hust-os-bot)|
+|KTestBot|内核补丁邮件测试机器人|[hust-open-atom-club/KTestRobot](https://gitee.com/hust-open-atom-club/KTestRobot)|
+|larkapp|内核邮件飞书通知机器人|[hust-open-atom-club/larkapp](https://gitee.com/hust-open-atom-club/larkapp)|
 
 ## 加入我们
 
@@ -43,6 +45,10 @@
 
 [hustmirror]: https://github.com/hust-open-atom-club/hust-mirrors
 [mirrorcli]: https://github.com/hust-open-atom-club/hustmirror-cli
+[hctt]: https://github.com/hust-open-atom-club/TranslateProject
+[linux-inside]: https://github.com/hust-open-atom-club/linux-insides-zh/
 
 [hustmirrors-cover]: ./assets/mirrors-cover.png
 [mirrorcli-cover]: ./assets/mirrorcli-cover.png
+[hctt-cover]: ./assets/hctt-cover.png
+[linux-inside-cover]: ./assets/linux-inside-cover.png
