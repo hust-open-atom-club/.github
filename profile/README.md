@@ -48,7 +48,7 @@
 [hctt]: https://github.com/hust-open-atom-club/TranslateProject
 [linux-inside]: https://github.com/hust-open-atom-club/linux-insides-zh/
 
-[hustmirrors-cover]: ./assets/mirrors-cover.png
-[mirrorcli-cover]: ./assets/mirrorcli-cover.png
-[hctt-cover]: ./assets/hctt-cover.png
-[linux-inside-cover]: ./assets/linux-inside-cover.png
+[hustmirrors-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrors-cover.png
+[mirrorcli-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrorcli-cover.png
+[hctt-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/hctt-cover.png
+[linux-inside-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/linux-inside-cover.png
