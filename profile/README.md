@@ -14,6 +14,9 @@
 |![][mirrorcli-cover]|[**📦 Mirror CLI**][mirrorcli] <br><br> 一键换源的命令行工具：支持 Ubuntu，Debian，Deepin，PyPI，crates 等多个发行版及工具|
 |[**🌐 HCTT 翻译团队**][hctt] <br><br> HCTT (HUST openatom Club Translation Team) 是“华科开放原子开源俱乐部”的翻译团队 | ![][hctt-cover]|
 |![][linux-inside-cover]|[**📖 Linux 内核揭秘**][linux-inside] <br><br> 分享对 Linux 内核机理的一些浅见，帮助读者理解 Linux 内核机理和其他底层内容|
+|[**🗡️pwn.hust.college 教育实践平台🛡️**][pwn.hust.college] <br><br> 一个基于神奇宝贝动画设计的趣味教育平台，供学生团体学习和动手实践网络空间安全安全的核心概念。 | ![][dojo-cover]|
+|![][linux-edu-rank-cover]|[**🎓 Linux 内核高校贡献排行榜**][linux-edu-rank] <br><br> 利用高校域名对 Linux 内核开源贡献进行排行，鼓励大家积极向 Linux 内核开展开源贡献。|
+
 
 ## 俱乐部介绍
 
@@ -52,3 +55,5 @@
 [mirrorcli-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrorcli-cover.png
 [hctt-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/hctt-cover.png
 [linux-inside-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/linux-inside-cover.png
+[dojo-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/dojo-cover.png
+[linux-edu-rank-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/linux-edu-rank-cover.png
