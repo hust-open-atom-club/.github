@@ -50,6 +50,8 @@
 [mirrorcli]: https://github.com/hust-open-atom-club/hustmirror-cli
 [hctt]: https://github.com/hust-open-atom-club/TranslateProject
 [linux-inside]: https://github.com/hust-open-atom-club/linux-insides-zh/
+[pwn.hust.college]: https://github.com/hust-open-atom-club/dojo/
+[linux-edu-rank]: https://github.com/hust-open-atom-club/linux-edu-rank/
 
 [hustmirrors-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrors-cover.png
 [mirrorcli-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrorcli-cover.png
