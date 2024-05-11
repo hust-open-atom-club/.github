@@ -32,13 +32,17 @@
 
 |项目名称|项目介绍|项目地址|
 |---|---|---|
-|TranslateProject|HCTT 翻译项目|[hust-open-atom-club/TranslateProject](https://github.com/hust-open-atom-club/TranslateProject)|
 |hust-mirrors|华科大开源镜像站点前端|[hust-open-atom-club/hust-mirrors](https://github.com/hust-open-atom-club/hust-mirrors)|
-|linux-edu-rank|Linux内核高校贡献榜|[hust-open-atom-club/linux-edu-rank](https://github.com/hust-open-atom-club/linux-edu-rank)|
 |hustmirror-cli|华科大开源镜像站点 CLI 工具|[hust-open-atom-club/hustmirror-cli](https://github.com/hust-open-atom-club/hustmirror-cli)|
+|TranslateProject|HCTT 翻译项目|[hust-open-atom-club/TranslateProject](https://github.com/hust-open-atom-club/TranslateProject)|
+|pwn.hust.college|网络空间安全教育实践平台|[hust-open-atom-club/dojo](https://github.com/hust-open-atom-club/dojo)|
+|linux-insides-zh|Linux 内核揭秘|[hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh)|
+|linux-edu-rank|Linux 内核高校贡献榜|[hust-open-atom-club/linux-edu-rank](https://github.com/hust-open-atom-club/linux-edu-rank)|
+<!--
 |HUST-OS-BOT|Hust OS Contribution 邮件任务机器人|[hust-open-atom-club/hust-os-bot](https://gitee.com/hust-open-atom-club/hust-os-bot)|
 |KTestBot|内核补丁邮件测试机器人|[hust-open-atom-club/KTestRobot](https://gitee.com/hust-open-atom-club/KTestRobot)|
 |larkapp|内核邮件飞书通知机器人|[hust-open-atom-club/larkapp](https://gitee.com/hust-open-atom-club/larkapp)|
+-->
 
 ## 加入我们
 
