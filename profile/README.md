@@ -50,12 +50,12 @@
 
 <!-- LINK GROUP -->
 
-[hustmirror]: https://github.com/hust-open-atom-club/hust-mirrors
-[mirrorcli]: https://github.com/hust-open-atom-club/hustmirror-cli
-[hctt]: https://github.com/hust-open-atom-club/TranslateProject
-[linux-inside]: https://github.com/hust-open-atom-club/linux-insides-zh/
-[pwn.hust.college]: https://github.com/hust-open-atom-club/dojo/
-[linux-edu-rank]: https://github.com/hust-open-atom-club/linux-edu-rank/
+[hustmirror]: https://mirrors.hust.edu.cn
+[mirrorcli]: https://mirrors.hust.edu.cn
+[hctt]: https://hctt.hust.openatom.club
+[linux-inside]: https://docs.hust.openatom.club/linux-insides-zh
+[pwn.hust.college]: https://pwn.cse.hust.edu.cn
+[linux-edu-rank]: https://edurank.hust.openatom.club
 
 [hustmirrors-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrors-cover.png
 [mirrorcli-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrorcli-cover.png
