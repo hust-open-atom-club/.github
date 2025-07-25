@@ -17,7 +17,7 @@
 |[**📖 Linux 内核揭秘**][linux-inside] <br><br> 分享对 Linux 内核机理的一些浅见，帮助读者理解 Linux 内核机理和其他底层内容|![][linux-inside-cover]|
 | ![][dojo-cover]|[**🗡️pwn.hust.college 教育实践平台🛡️**][pwn.hust.college] <br><br> 一个基于神奇宝贝动画设计的趣味教育平台，供学生团体学习和动手实践网络空间安全安全的核心概念。 |
 |[**🎓 Linux 内核高校贡献排行榜**][linux-edu-rank] <br><br> 利用高校域名对 Linux 内核开源贡献进行排行，鼓励大家积极向 Linux 内核开展开源贡献。|![][linux-edu-rank-cover]|
-| ![][dojo-cover]|[**🛠️ RISC-V Online 🚀**][riscv-online] <br><br> 一款基于 WebAssembly 的在线 RISC-V 汇编反汇编工具，专为 RISC-V 开发者、学习者和研究人员设计。|
+| ![][riscv-online-cover]|[**🛠️ RISC-V Online 🚀**][riscv-online] <br><br> 一款基于 WebAssembly 的在线 RISC-V 汇编反汇编工具，专为 RISC-V 开发者、学习者和研究人员设计。|
 
 
 ## 俱乐部介绍
