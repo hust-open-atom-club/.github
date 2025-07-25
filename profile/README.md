@@ -17,6 +17,7 @@
 |[**📖 Linux 内核揭秘**][linux-inside] <br><br> 分享对 Linux 内核机理的一些浅见，帮助读者理解 Linux 内核机理和其他底层内容|![][linux-inside-cover]|
 | ![][dojo-cover]|[**🗡️pwn.hust.college 教育实践平台🛡️**][pwn.hust.college] <br><br> 一个基于神奇宝贝动画设计的趣味教育平台，供学生团体学习和动手实践网络空间安全安全的核心概念。 |
 |[**🎓 Linux 内核高校贡献排行榜**][linux-edu-rank] <br><br> 利用高校域名对 Linux 内核开源贡献进行排行，鼓励大家积极向 Linux 内核开展开源贡献。|![][linux-edu-rank-cover]|
+| ![][dojo-cover]|[**🛠️ RISC-V Online 🚀**][riscv-online] <br><br> 一款基于 WebAssembly 的在线 RISC-V 汇编反汇编工具，专为 RISC-V 开发者、学习者和研究人员设计。|
 
 
 ## 俱乐部介绍
@@ -40,6 +41,7 @@
 |linux-insides-zh|Linux 内核揭秘|[hust-open-atom-club/linux-insides-zh](https://github.com/hust-open-atom-club/linux-insides-zh)|
 |pwn.hust.college|网络空间安全教育实践平台|[hust-open-atom-club/dojo](https://github.com/hust-open-atom-club/dojo)|
 |linux-edu-rank|Linux 内核高校贡献榜|[hust-open-atom-club/linux-edu-rank](https://github.com/hust-open-atom-club/linux-edu-rank)|
+|RISC-V Online|在线 RISC-V 汇编反汇编工具|[hust-open-atom-club/riscv-online](https://github.com/hust-open-atom-club/riscv-online)
 <!--
 |HUST-OS-BOT|Hust OS Contribution 邮件任务机器人|[hust-open-atom-club/hust-os-bot](https://gitee.com/hust-open-atom-club/hust-os-bot)|
 |KTestBot|内核补丁邮件测试机器人|[hust-open-atom-club/KTestRobot](https://gitee.com/hust-open-atom-club/KTestRobot)|
@@ -59,6 +61,7 @@
 [pwn.hust.college]: https://pwn.cse.hust.edu.cn
 [linux-edu-rank]: https://edurank.hust.openatom.club
 [oseddl]: https://oseddl.openatom.club
+[riscv-online]: https://rvdis.openatom.club/
 
 [hustmirrors-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrors-cover.png
 [mirrorcli-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrorcli-cover.png
@@ -67,3 +70,4 @@
 [dojo-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/dojo-cover.png
 [linux-edu-rank-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/linux-edu-rank-cover.png
 [oseddl-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/oseddl-cover.png
+[riscv-online-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/riscv-online-cover.png
