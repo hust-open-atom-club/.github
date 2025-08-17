@@ -1,9 +1,6 @@
-<div style="display: flex;">
-  <img src="https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/header.png"  style="max-width: 70%; height: auto;">
-  <img src="https://github.com/hust-open-atom-club/logos/blob/main/logos_office_account/qrcode.jpg" style="max-width: 30%; height: auto;">
-</div>
-
 <div align="center">
+
+<img src="https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/header.png" style="width:60%">
 
 <h3><a href="https://hust.openatom.club">hust.openatom.club</a></h3>
 
@@ -53,6 +50,14 @@
 ## 加入我们
 
 华科开放原子开源俱乐部计划于「每学年的秋季学期」举办“开放原子开源俱乐部招新”活动。该活动旨在推广开源俱乐部，吸纳更多成员加入俱乐部。活动将在华科学校内举行，但不仅限于全校学生，外校同学也可以参加。如果想在非招新期间加入，可以通过 <openatom_club@hust.edu.cn> 联系我们。
+
+## 俱乐部公众号
+
+<div align="center">
+
+<img src="https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/qrcode.jpg" style="width:50%">
+
+</div>
 
 <!-- LINK GROUP -->
 
