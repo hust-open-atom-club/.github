@@ -1,7 +1,9 @@
-<div style="display: flex; gap: 10px;">
+<div style="display: flex;">
   <img src="https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/header.png"  style="max-width: 70%; height: auto;">
   <img src="https://github.com/hust-open-atom-club/logos/blob/main/logos_office_account/qrcode.jpg" style="max-width: 30%; height: auto;">
 </div>
+
+<div align="center">
 
 <h3><a href="https://hust.openatom.club">hust.openatom.club</a></h3>
 
