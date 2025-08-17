@@ -29,7 +29,15 @@
 
 - 我们定期组织讨论班和圆桌会议，分享研究成果、解决问题，增进互相之间的了解和信任。我们欢迎所有对开源文化感兴趣、愿意为开源事业做出贡献的同学加入我们的俱乐部。在这里，你将有机会接触到最新的开源技术、结交志同道合的朋友，打造属于自己的开源之路。
 
-## 俱乐部项目
+### 俱乐部公众号
+
+<div align="center">
+
+<img src="https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/qrcode.jpg" style="width:40%">
+
+</div>
+
+### 俱乐部项目
 
 |项目名称|项目介绍|项目地址|
 |---|---|---|
@@ -51,13 +59,6 @@
 
 华科开放原子开源俱乐部计划于「每学年的秋季学期」举办“开放原子开源俱乐部招新”活动。该活动旨在推广开源俱乐部，吸纳更多成员加入俱乐部。活动将在华科学校内举行，但不仅限于全校学生，外校同学也可以参加。如果想在非招新期间加入，可以通过 <openatom_club@hust.edu.cn> 联系我们。
 
-## 俱乐部公众号
-
-<div align="center">
-
-<img src="https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/qrcode.jpg" style="width:50%">
-
-</div>
 
 <!-- LINK GROUP -->
 
