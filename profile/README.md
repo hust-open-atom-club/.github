@@ -7,7 +7,7 @@
 
 <!-- 参考：https://shields.io/badges/static-badge -->
 <!-- [![](https://dcbadge.limes.#FB7299/api/server/EMJqcQCCpW)](https://discord.gg/EMJqcQCCpW) -->
-[![](https://img.shields.io/badge/Join_QQ-HUST_OPEN_ATOM_CLUB_Recruitment-white?style=for-the-badge&color=76bad9&logo=qq&logoColor=e0e053)](https://qm.qq.com/q/E3Lb72RBp8)
+[![](https://img.shields.io/badge/Join_QQ-HUST_OPEN_ATOM_CLUB_Recruitment-white?style=for-the-badge&color=76bad9&logo=qq&logoColor=76bad9)](https://qm.qq.com/q/E3Lb72RBp8)
 [![](https://img.shields.io/badge/Join_QQ-HUST_OPEN_ATOM_CLUB_|_OS2EDU-white?style=for-the-badge&color=76bad9&logo=qq&logoColor=76bad9)](https://qm.qq.com/q/2uEd11lkWk)
 [![](https://img.shields.io/badge/Join_Discord-HUST_OPEN_ATOM_CLUB-white?style=for-the-badge&color=5662f6&logo=discord&logoColor=5662f6)](https://discord.gg/EMJqcQCCpW)
 [![](https://img.shields.io/badge/Visit_Bilibili-%E5%8D%8E%E7%A7%91%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E4%BF%B1%E4%B9%90%E9%83%A8-white?style=for-the-badge&color=FB7299&logo=bilibili&logoColor=FB7299)](https://space.bilibili.com/3537107102468877)
