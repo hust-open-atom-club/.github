@@ -78,7 +78,7 @@
 [hustmirror]: https://mirrors.hust.edu.cn
 [mirrorcli]: https://mirrors.hust.edu.cn
 [hctt]: https://hctt.openatom.club
-[linux-inside]: https://docs.openatom.club/
+[linux-inside]: https://linux-insides.openatom.club/
 [pwn.hust.college]: https://pwn.cse.hust.edu.cn
 [linux-edu-rank]: https://edurank.openatom.club
 [oseddl]: https://oseddl.openatom.club
