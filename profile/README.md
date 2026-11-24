@@ -70,6 +70,17 @@
 ## 加入我们
 
 华科开放原子开源俱乐部计划于「每学年的秋季学期」举办“开放原子开源俱乐部招新”活动。该活动旨在推广开源俱乐部，吸纳更多成员加入俱乐部。活动将在华科学校内举行，但不仅限于全校学生，外校同学也可以参加。如果想在非招新期间加入，可以通过 <openatom_club@hust.edu.cn> 联系我们。
+## 参与贡献
+
+想参与但不知道从哪里开始？可以从下面的入口找到适合自己的任务：
+
+- [适合新人的 `good first issue`][good-first-issue]：带 `good first issue` 标签的任务，适合首次贡献；
+- [组织内全部开放 Issue][all-issues]：浏览所有仓库中待解决的问题；
+- [申请创建或转移仓库][repo-request]：在 `RepositoryManagement` 中按模板提交；
+- 日常交流见页首的 QQ 群、Discord 徽章，也可以邮件联系 <openatom_club@hust.edu.cn>。
+
+具体项目请以对应仓库的 Issue 模板和贡献说明为准。
+
 
 
 <!-- LINK GROUP -->
@@ -82,7 +93,9 @@
 [linux-edu-rank]: https://edurank.openatom.club
 [oseddl]: https://oseddl.openatom.club
 [riscv-online]: https://rvdis.openatom.club/
-
+[good-first-issue]: https://github.com/search?q=org%3Ahust-open-atom-club+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues
+[all-issues]: https://github.com/search?q=org%3Ahust-open-atom-club+is%3Aissue+is%3Aopen&type=issues
+[repo-request]: https://github.com/hust-open-atom-club/RepositoryManagement/issues/new/choose
 [hustmirrors-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrors-cover.png
 [mirrorcli-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/mirrorcli-cover.png
 [hctt-cover]: https://github.com/hust-open-atom-club/.github/blob/main/profile/assets/hctt-cover.png
